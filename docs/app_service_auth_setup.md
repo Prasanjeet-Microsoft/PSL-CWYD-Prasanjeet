@@ -1,4 +1,4 @@
-# Using the web apps in the "Chat with your data" solution accelerator
+# Set Up Authentication in Azure App Service
 
 ## Step 1: Add Authentication in Azure App Service configuration
 
