@@ -14,7 +14,7 @@
 
 ![Add Provider](images/AppAuthIdentityProvider.png)
 
-4. Select the first option `Microsoft Entra Id` from the drop-down list. If `Create new app registration` is disabled, go to [Step 1a](https://github.com/Prasanjeet-Microsoft/PSL-CWYD-Prasanjeet/blob/main/docs/app_service_auth_setup.md#step-1-add-authentication-in-azure-app-service-configuration).
+4. Select the first option `Microsoft Entra Id` from the drop-down list. If `Create new app registration` is disabled, go to [Step 1a](#step-1-add-authentication-in-azure-app-service-configuration).
 
 ![Add Provider](images/AppAuthIdentityProviderAdd.png)
 
