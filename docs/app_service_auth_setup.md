@@ -14,7 +14,7 @@
 
 ![Add Provider](images/AppAuthIdentityProvider.png)
 
-4. Select the first option `Microsoft Entra Id` from the drop-down list. If `Create new app registration` is disabled, go to [Step 1a](./docs/app_service_auth_setup.md#step-1a-creating-a-new-app-registration).
+4. Select the first option `Microsoft Entra Id` from the drop-down list. If `Create new app registration` is disabled, go to [Step 1a](#step-1a-creating-a-new-app-registration).
 
 ![Add Provider](images/AppAuthIdentityProviderAdd.png)
 
